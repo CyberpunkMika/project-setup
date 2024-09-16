@@ -14,4 +14,4 @@ Need to set up the following when creating a new dev project (in no particular o
 If you need to see your git config settings when setting a project folder up run `git config --list --show-origin`  
 If you need to set the global configs use:
 - `git config --global user.name "John Doe"` and 
-- `git config --global user.email johndoe@example.com`
+- `git config --global user.email johndoe@example.com` (To avoid confusion this should be the email address associated with your Github account)
