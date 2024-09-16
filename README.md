@@ -11,7 +11,7 @@ Need to set up the following when creating a new dev project (in no particular o
 - Run git add. and git commit
 - `git push -u origin main`
 
-If you need to see your git config settings when setting a project folder up run `git config --list --show-origin`
+If you need to see your git config settings when setting a project folder up run `git config --list --show-origin`  
 If you need to set the global configs use:
 - `git config --global user.name "John Doe"` and 
 - `git config --global user.email johndoe@example.com`
