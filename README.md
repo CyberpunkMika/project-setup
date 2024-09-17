@@ -3,7 +3,7 @@ Need to set up the following when creating a new dev project (in no particular o
 - Create folder
 - If a Python project, create virtual environment (ie. `python -m venv venv --prompt="project_name"`)
 - `git init`
-- Rename initial git branch from master to main (unless already set using `git config --global init.defaultBranch main`)
+- Rename initial git branch from master to main using `git branch -m main` (unless already set using `git config --global init.defaultBranch main`)
 - Create remote project on Github (no .gitignore, README or license)
 - Add .gitignore file to the local project folder (not the Github repo)
 - ssh-add relevant ssh key
